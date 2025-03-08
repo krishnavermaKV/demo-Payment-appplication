@@ -19,4 +19,4 @@ This is a full-stack payment application with JWT-based authentication and a Mon
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/krishnavermaKV/demo-Payment-application.git
+   git clone https://github.com/username/nameofrepo.git
