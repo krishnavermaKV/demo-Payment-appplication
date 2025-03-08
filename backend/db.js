@@ -3,7 +3,7 @@ const express = require("express");
 const { string } = require("zod");
 const app = express();
 
-mongoose.connect("mongodb+srv://Pkriya:Verma%4010@cluster0.donpi.mongodb.net/User_Data_new");
+mongoose.connect("mongodb+srv://username@cluster0.donpi.mongodb.net/User");
 
 const Usershema = mongoose.Schema( 
  {  username: {
